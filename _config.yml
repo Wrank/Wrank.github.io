@@ -4,11 +4,13 @@
 
 # Site
 title: FRAN-T07BP-63GHS
-subtitle: 'When is the best time to plant a tree?'
+subtitle: '蜀ICP备16029442号'
 description: ''
 keywords:
 author: Frank Wu
-language: en
+language: 
+  - zh-cn
+  - en
 timezone: 'Asia/Shanghai'
 
 # URL
